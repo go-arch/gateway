@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Gateway&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../BasicAuth" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../poc" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../GridComputing" />
+      <root url="file://$PROJECT_DIR$/../TiiQu-Platform" />
+      <root url="file://$PROJECT_DIR$/../rbac" />
+      <root url="file://$PROJECT_DIR$/../crc-backend" />
+      <root url="file://$PROJECT_DIR$/../go-ethereum" />
+      <root url="file://$PROJECT_DIR$/../ckc-backend" />
+      <root url="file://$PROJECT_DIR$/../Gorm" />
+      <root url="file://$PROJECT_DIR$/../students" />
+      <root url="file://$PROJECT_DIR$/../UserMicroservice" />
+      <root url="file://$PROJECT_DIR$/../micro_services" />
+      <root url="file://$PROJECT_DIR$/../GoEnvPractice" />
+      <root url="file://$PROJECT_DIR$/../go.uber.org" />
+      <root url="file://$PROJECT_DIR$/../Sample" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../Yosemite" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../cloud.google.com" />
+      <root url="file://$PROJECT_DIR$/../SMIS Deployment" />
+      <root url="file://$PROJECT_DIR$/../FIleUploadMicroservice" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../BasicAuth" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../poc" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../GridComputing" />
+      <root url="file://$PROJECT_DIR$/../TiiQu-Platform" />
+      <root url="file://$PROJECT_DIR$/../rbac" />
+      <root url="file://$PROJECT_DIR$/../crc-backend" />
+      <root url="file://$PROJECT_DIR$/../go-ethereum" />
+      <root url="file://$PROJECT_DIR$/../ckc-backend" />
+      <root url="file://$PROJECT_DIR$/../Gorm" />
+      <root url="file://$PROJECT_DIR$/../students" />
+      <root url="file://$PROJECT_DIR$/../UserMicroservice" />
+      <root url="file://$PROJECT_DIR$/../micro_services" />
+      <root url="file://$PROJECT_DIR$/../GoEnvPractice" />
+      <root url="file://$PROJECT_DIR$/../go.uber.org" />
+      <root url="file://$PROJECT_DIR$/../Sample" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../Yosemite" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../cloud.google.com" />
+      <root url="file://$PROJECT_DIR$/../SMIS Deployment" />
+      <root url="file://$PROJECT_DIR$/../FIleUploadMicroservice" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
